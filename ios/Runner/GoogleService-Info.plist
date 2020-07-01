@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>982288958337-9h7n5gjjrodl43u4bpkrk19goncchn6d.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.982288958337-9h7n5gjjrodl43u4bpkrk19goncchn6d</string>
+	<key>ANDROID_CLIENT_ID</key>
+	<string>982288958337-bddril4q74mad0d0f8pvuo1bmm8liifh.apps.googleusercontent.com</string>
+	<key>API_KEY</key>
+	<string>AIzaSyCLcyup_AeeJ_ySKQSyUsfIpx01jTeh4W4</string>
+	<key>GCM_SENDER_ID</key>
+	<string>982288958337</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>ch.wappli.Komeet</string>
+	<key>PROJECT_ID</key>
+	<string>beyond-678bd</string>
+	<key>STORAGE_BUCKET</key>
+	<string>beyond-678bd.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:982288958337:ios:230cf362ef7b3a705cde80</string>
+	<key>DATABASE_URL</key>
+	<string>https://beyond-678bd.firebaseio.com</string>
+</dict>
+</plist>
