@@ -65,9 +65,8 @@ InterstitialAd myInterstitial = InterstitialAd(
   // https://developers.google.com/admob/android/test-ads
   // https://developers.google.com/admob/ios/test-ads
   // TODO ANDROID BANNER ID
-//  adUnitId: "ca-app-pub-1019750920692164/6379187192",
   // TODO IOS BANNER ID
-  adUnitId: "ca-app-pub-1019750920692164/3879826995",
+  adUnitId: "###",
   targetingInfo: targetingInfo,
   listener: (MobileAdEvent event) {
     print("InterstitialAd event is $event");
@@ -79,9 +78,9 @@ class MyApp extends StatelessWidget {
   Widget build(BuildContext context) {
     FirebaseAdMob.instance.initialize(
       // TODO ANDROID APP ID
-//      appId: 'ca-app-pub-1019750920692164~8062110007',
+//      appId: '###',
       // TODO IOS APP ID
-    appId: "ca-app-pub-1019750920692164~4241954921",
+    appId: "###",
     );
     myInterstitial.load();
     SystemChrome.setPreferredOrientations([
